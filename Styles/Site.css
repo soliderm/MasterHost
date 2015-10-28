@@ -1,0 +1,83 @@
+﻿
+body   
+{
+    font-size: 9pt;
+    font-family:  "Microsoft YaHei" ! important;
+    margin: 10px;
+    padding: 10px;
+}
+
+#gvFiles 
+{
+	width: 550px;
+}
+
+.GridViewStyle
+{    
+    border-right: 1px solid #cf181d;
+    border-bottom: 1px solid #cf181d;
+    border-left: 1px solid #cf181d;
+    border-top: 1px solid #cf181d;
+    padding: 4px;
+}
+
+.GridViewStyle a
+{
+    color: Blue;
+}
+
+.GridViewHeaderStyle th
+{
+    border-left: 1px solid #cf181d;
+    border-right: 1px solid #cf181d;
+}
+
+.GridViewHeaderStyle
+{
+    background-color: #cf181d;
+    font-weight: bold;
+    text-align: left;
+    color: White;
+}
+
+.GridViewFooterStyle
+{
+    background-color: #cf181d;
+    font-weight: bold;
+    color: White;
+}
+
+.GridViewRowStyle
+{
+    background-color: #f3efca;
+    color: #333333;
+}
+
+.GridViewAlternatingRowStyle 
+{
+    background-color: #FFFFFF;
+    color: #284775;
+}
+
+.GridViewRowStyle td, .GridViewAlternatingRowStyle td
+{
+    border: 1px solid #f3efca;
+}
+
+.GridViewSelectedRowStyle
+{
+    background-color: #f3efca;
+    font-weight: bold;
+    color: #black;
+}
+
+.GridViewPagerStyle
+{
+    background-color: #cf181d;
+    color: #FFFFFF;
+}
+
+.GridViewPagerStyle table
+{
+    margin: 0 auto 0 auto;
+}

@@ -1,0 +1,10 @@
+@charset "utf-8";
+#left {
+	height: 2000px;
+	width: 998px;
+}
+#left {
+	height: 310px;
+	width: 360px;
+	background-image: url(Images/left%E5%89%AF%E6%9C%AC.png);
+}

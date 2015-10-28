@@ -1,0 +1,9 @@
+@charset "utf-8";
+#newList {
+	height: 190px;
+	width: 270px;
+	padding-top: 55px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+}

@@ -1,0 +1,192 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-size:12px;
+	font-family:"宋体";}
+ul,li{
+	list-style-type:none;}
+.main{
+	width: 998px;
+	height: auto;
+	border: 1px #000 solid;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	background-image: url(Images/background%E5%89%AF%E6%9C%AC.png);
+	}
+.head{
+	width:998px;
+	background:url(Images/head.jpg);
+	height:180px;
+	float:left;}
+.menu{
+	font-weight:bold;
+	line-height:22px;
+	height:22px;
+	text-align:center;
+	padding-left:200px;
+	padding-top:154px;
+}
+.menu li{
+	text-align:center;
+	float:left;
+	width:80px;}
+
+.middmain{
+	width:1000px;
+	background:url(Images/maincolor.jpg);
+	height:auto;
+	background-repeat: repeat;
+	margin: auto;
+}
+.leftmain{
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding-left: 2px;
+}
+	
+.huandeng{
+	overflow:hidden;
+	width:350px;
+	height:285px;
+	float:left;
+	}
+.title{
+	float:right;
+	background:url(Images/title.jpg);
+	width:360px;
+	height:41px;}
+.list{
+	height:243px;
+	border:1px #949494 solid;
+	border-top:0px;
+	width:360px;
+	line-height:21px;
+	float: right;
+}
+.list ul{
+	width:360px;
+	float:right;}
+.list li{
+	background:url(Images/dian.jpg) no-repeat scroll 25px 5px transparent;
+	padding-left:40px;
+	float:left;
+	width:350px;
+	}
+.title2{
+	width:300px;
+	background:url(Images/title2.jpg);
+	height:46px;
+	margin: auto;
+}
+.pictu{
+	border:1px #949494 solid;
+	border-top:0px;
+	
+	
+	width:326px;
+	height:242px;
+	float:left;
+	
+	}
+.downleftcontent{
+	border:1px #949494 solid;
+	border-top:0px;
+	line-height:16px;
+	width:330px;
+	float:left;
+	height:242px;
+	}
+.downleftcontent li{
+	line-height:12px;
+	padding-left:20px;
+	padding-top:10px;}
+.rightmain{
+	height:155px;
+	width:200px;
+	float: right;
+}
+.denlu{
+	width:200px;
+	height:243px;
+	padding-top: 30px;
+}
+.rightmaindown{
+		border:1px #949494 solid;
+	border-top:0px;
+	width:210px;
+	float:left;
+	height:357px;}
+.litlecontent{
+	padding-left:10px;
+	line-height:16px;
+	padding-top:7px;
+	padding-bottom:7px;
+	width:200px;
+	height:105px;
+	float:left;}
+.buttom{
+	color:#FFF;
+	width:1000px;
+	background:url(Images/buttom.jpg);
+	height:63px;
+	float:left;
+	text-align:center;
+	vertical-align:middle;
+	line-height:63px;}
+a,a:visited,a:link{
+	color:#000; text-decoration:none}
+a:hover{
+	color:#666}
+.menu a,.menu a:visited,.menu a:link{ color:#FFF}
+.menu a:hover{ color:#000}
+
+.titlea a,.titlea a:visited,.titlea a:link{
+	color:#e65810; text-decoration:none}
+.titlea a:hover{
+	color:#F00; text-decoration:none}
+#ad {
+	height: 100px;
+	width: 998px;
+	background-image: url(Images/ad998.jpg);
+}
+#ad {
+	height: 100px;
+	width: 998px;
+}
+#ad {
+	height: 100px;
+	width: 1000px;
+	float: left;
+	margin-top: 0px;
+}
+#content {
+	height: 450px;
+	width: 1000px;
+	margin-top: 0px;
+}
+#left {
+	float: left;
+	height: 450px;
+	width: 330px;
+}
+#content3 {
+	float: right;
+	height: 450px;
+	width: 330px;
+}
+#content2 {
+	height: 450px;
+	width: 330px;
+	margin-left: 333px;
+}
+.contentlist {
+	height: 350px;
+	width: 300px;
+	margin: auto;
+	border: 1px solid #000000;
+}

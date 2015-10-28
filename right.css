@@ -1,0 +1,12 @@
+@charset "utf-8";
+#right {
+	height: 760px;
+	width: 256px;
+	position: relative;
+	background-image: url(Images/right%E5%89%AF%E6%9C%AC.png);
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	float: right;
+}

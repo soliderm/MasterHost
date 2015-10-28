@@ -1,0 +1,16 @@
+@charset "utf-8";
+#left2 {
+	height: 472px;
+	width: 741px;
+	margin: auto;
+}
+#left2 {
+	height: 472px;
+	width: 740px;
+	float: left;
+}
+#left2 {
+	height: 460px;
+	width: 740px;
+	background-image: url(Images/left2%E5%89%AF%E6%9C%AC.png);
+}

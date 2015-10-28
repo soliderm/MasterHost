@@ -1,0 +1,10 @@
+@charset "utf-8";
+#rightList {
+	height: 690px;
+	width: 130px;
+	float: right;
+	padding-top: 55px;
+	padding-right: 90px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
